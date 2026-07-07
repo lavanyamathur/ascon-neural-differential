@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# Data & results (large, regeneratable — don't commit to git)
+results/*
+!results/.gitkeep
+data/
+*.npy
+*.npz
+checkpoints/
+*.pt
+*.pth
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# pytest
+.pytest_cache/
