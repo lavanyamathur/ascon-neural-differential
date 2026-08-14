@@ -1,0 +1,96 @@
+{
+  "start_words": [
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "n_rounds": 12,
+  "history": [
+    {
+      "round": 1,
+      "round_probability": 0.25,
+      "cumulative_log2_probability": -2.0,
+      "active_sbox_columns": 1,
+      "post_round_hamming_weight": 6
+    },
+    {
+      "round": 2,
+      "round_probability": 1.52587890625e-05,
+      "cumulative_log2_probability": -18.0,
+      "active_sbox_columns": 5,
+      "post_round_hamming_weight": 21
+    },
+    {
+      "round": 3,
+      "round_probability": 8.881784197001252e-16,
+      "cumulative_log2_probability": -68.0,
+      "active_sbox_columns": 17,
+      "post_round_hamming_weight": 72
+    },
+    {
+      "round": 4,
+      "round_probability": 2.350988701644575e-38,
+      "cumulative_log2_probability": -193.0,
+      "active_sbox_columns": 41,
+      "post_round_hamming_weight": 93
+    },
+    {
+      "round": 5,
+      "round_probability": 7.006492321624085e-46,
+      "cumulative_log2_probability": -343.0,
+      "active_sbox_columns": 51,
+      "post_round_hamming_weight": 130
+    },
+    {
+      "round": 6,
+      "round_probability": 3.982729777831131e-59,
+      "cumulative_log2_probability": -537.0,
+      "active_sbox_columns": 62,
+      "post_round_hamming_weight": 137
+    },
+    {
+      "round": 7,
+      "round_probability": 6.681911775230489e-52,
+      "cumulative_log2_probability": -707.0,
+      "active_sbox_columns": 59,
+      "post_round_hamming_weight": 130
+    },
+    {
+      "round": 8,
+      "round_probability": 3.1861838222649046e-58,
+      "cumulative_log2_probability": -898.0,
+      "active_sbox_columns": 60,
+      "post_round_hamming_weight": 144
+    },
+    {
+      "round": 9,
+      "round_probability": 9.723461371658034e-63,
+      "cumulative_log2_probability": -1104.0,
+      "active_sbox_columns": 62,
+      "post_round_hamming_weight": 109
+    },
+    {
+      "round": 10,
+      "round_probability": 1.3363823550460978e-51,
+      "cumulative_log2_probability": -1273.0,
+      "active_sbox_columns": 57,
+      "post_round_hamming_weight": 106
+    },
+    {
+      "round": 11,
+      "round_probability": 5.473822126268817e-48,
+      "cumulative_log2_probability": -1430.0,
+      "active_sbox_columns": 53,
+      "post_round_hamming_weight": 129
+    },
+    {
+      "round": 12,
+      "round_probability": 8.156630584998156e-56,
+      "cumulative_log2_probability": -1613.0,
+      "active_sbox_columns": 59,
+      "post_round_hamming_weight": 125
+    }
+  ]
+}

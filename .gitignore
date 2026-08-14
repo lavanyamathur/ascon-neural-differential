@@ -31,3 +31,5 @@ checkpoints/
 
 !results/ascon_sbox_ddt_fresh.csv
 !results/ascon_sbox_ddt_fresh.json
+
+!results/greedy_trail_result.json
