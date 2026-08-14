@@ -25,3 +25,9 @@ checkpoints/
 
 # pytest
 .pytest_cache/
+
+!results/ascon_sbox_ddt_fresh.csv
+!results/ascon_sbox_ddt_fresh.json
+
+!results/ascon_sbox_ddt_fresh.csv
+!results/ascon_sbox_ddt_fresh.json
