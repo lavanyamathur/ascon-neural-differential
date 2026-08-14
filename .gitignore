@@ -9,6 +9,7 @@ venv/
 # Data & results (large, regeneratable — don't commit to git)
 results/*
 !results/.gitkeep
+!results/ascon_sbox_ddt.csv
 data/
 *.npy
 *.npz
